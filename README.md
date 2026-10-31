@@ -32,21 +32,6 @@ AI 写代码的瓶颈不是生成，是**不漂移**。规模一上来质量就�
 | 独立审查 | 用**无污染上下文**兜底 | 施工者看自己的代码有惯性，自我背书 |
 | 回执 | 把「验证到什么程度」显式化，**含未验证项** | 没测的东西藏起来，下一波爆雷 |
 
-## 安装
-
-本技能是标准 Agent Skill：`SKILL.md` 放在仓库根目录，任何读 `~/.agents/skills` 的工具（ZCode、Codex 等）都会自动发现，**新会话生效**。
-
-```bash
-git clone https://github.com/<你的用户名>/contract-build.git ~/.agents/skills/contract-build
-```
-
-已有目录时更新：
-
-```bash
-cd ~/.agents/skills/contract-build && git pull
-```
-
-不装也能用：把 `SKILL.md` 的内容贴进会话，让模型按流程走。
 
 ## 流程总览
 
