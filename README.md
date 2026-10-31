@@ -2,7 +2,7 @@
 
 > **人写契约与回执，AI 写代码，测试当缰绳。**
 
-一套让「AI 大规模生成代码」不塌质量的施工流程，从开源项目 [AI-Resonance](https://github.com/WZZNNE/AI-Resonance) 的实际施工方式反向提炼考证还原而来
+一套让「AI 大规模生成代码」不塌质量的施工流程，从开源项目 [AI-Resonance](https://github.com/WZZNNE/AI-Resonance) 的实际施工方式反向提炼考证还原而来。这个skill来源很复杂，完全基于个人化的提炼，在提炼施工方法后续又添加了ui设计方面契约，还有部分零散优化方案叠加出来。
 
 
 
